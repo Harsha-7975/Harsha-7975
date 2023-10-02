@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsha Vardhan Tokala</h1>
 <h3 align="center">A passionate Code Enthusiast from India</h3>
 
-- 🌱 I’m currently learning **Android Development with java**
+- 🌱 I’m currently learning **Android Development with Flutter**
 
 - 📫 How to reach me **harshathokala9346@gmail.com**
 
